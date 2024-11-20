@@ -1,0 +1,10 @@
+title: iCompanion
+description: A companion app for UH Manoa'a iLab
+google_analytics:
+show_downloads: false
+theme: jekyll-theme-cayman
+github:
+  is_project_page: true
+  repository_url: https://github.com/i-companion/iCompanion
+gems:
+  - jekyll-mentions
