@@ -104,7 +104,7 @@ The main goal of M3 was to ...
 ## The Team 
 
 ### Julian Bejar
-
+Junior computer science student at UH manoa pursuing the Data Science track
 
 ### Abigail Lorber
 Junior at the UH Manoa, currently seeking a B.S. in Computer Science.
