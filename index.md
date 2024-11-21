@@ -89,14 +89,22 @@ The main goal of M1 was to deploy the system to Vercel and start implementing co
 [Link](https://github.com/orgs/i-companion/projects/1/views/1) to M1
 
 ### Milestone 2 (M2)
-
-1. Develop the functionality and layout of the web application with larger focus on its function. This includes the navbar components and links, profile card components, and calendar components.
-2. Pages that are functional:
-   -Landing page and its subsequent links
-   -Sign-in / Register pages -Create / Edit user profile page
-   -Dislpay calendar and events page
-3. Pages that will read &/or write to the database, including but not limited to the Sign-in / Register page and Create / Edit user profile page
-4. Continue updating the development progess with current screenshots
+<ol>
+   <li>
+Develop the functionality and layout of the web application with larger focus on its function. This includes the navbar components and links, profile card components, and calendar components.
+   </li>
+<li>
+Pages that are functional:
+   <ul>
+<li>Landing page and its subsequent links</li>
+<li>Sign-in / Register pages
+<li>Create / Edit user profile page</li>
+<li>Dislpay calendar and events page</li>
+   </ul>
+</li>
+<li>Pages that will read &/or write to the database, including but not limited to the Sign-in / Register page and Create / Edit user profile page</li>
+<li>Continue updating the development progess with current screenshots</li>
+</ol>
 
 [Link](https://github.com/orgs/i-companion/projects/3/views/1) to M2.
 
