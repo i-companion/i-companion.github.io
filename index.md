@@ -6,6 +6,7 @@
 - [User Guide](#user-guide)
 - [Developer Guide](#developer-guide)
 - [Development History](#development-history)
+- [The Team](#the-team)
 - [Team Contract](#team-contract)
 
 
@@ -53,7 +54,30 @@ A calendar view can also be shown of all of the scheduled gaming sessions in iLa
 
 ## Developer Guide
 
-<!-- text -->
+&nbsp;### Installation
+
+1. Go to the [iCompanion repo](https://github.com/i-companion/iCompanion).
+
+2. Click the "Use this template" button to create your own repository initialized with a copy of iCompanion.
+
+3. `cd` into iCompanion's `app` directory and install libraries with:
+
+```
+$ npm install
+```
+
+4. Run the system with:
+
+```
+$ npm run dev
+```
+
+5. If everything works, iCompanion will appear at [http://localhost:3000](http://localhost:3000).
+
+### ESLint
+
+
+
 
 
 ## Development History
@@ -75,6 +99,24 @@ The main goal of M2 was to ...
 The main goal of M3 was to ...
 
 [Link](https://github.com/orgs/i-companion/projects/4) to M3.
+
+
+## The Team 
+
+### Julian Bejar
+
+
+### Abigail Lorber
+Junior at the UH Manoa, currently seeking a B.S. in Computer Science.
+
+### Kai Sutton
+
+
+### Micah Tossey
+
+
+### Phoebe Chang
+
 
 
 ## Team Contract
