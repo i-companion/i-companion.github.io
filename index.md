@@ -110,7 +110,7 @@ The main goal of M3 was to ...
 Junior at the UH Manoa, currently seeking a B.S. in Computer Science.
 
 ### Kai Sutton
-
+Information and Computer Science student at UH Manoa
 
 ### Micah Tossey
 
