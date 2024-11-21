@@ -1,28 +1,11 @@
-<!--
-
-# iCompanion
-
-## Table of contents
-
-## Team Members
-
-## Overview
-
-## User Guide
-
-### Landing Page
-
-### Sign in and sign up
-
-### Home page
-
--->
-<link rel="stylesheet" href="/Design/style.css">
-
-## Content
+## Table of Contents
 - [Overview](#overview)
+- [Deployment](#deployment)
 - [User Guide](#user-guide)
+- [Developer Guide](#developer-guide)
+- [Development History](#development-history)
 - [Team Contract](#team-contract)
+
 
 ## Overview
 
@@ -34,23 +17,63 @@ There are many students that come to the ilab, especially during the first coupl
 
 The iCompanion web application sorts UH students using similar, interests, available times, etc and connects them with each other, allowing for the process of forming connections and making friends easier.
 
+
+## Deployment
+
+[Link](https://i-companion.vercel.app/) to running deployment of iCompanion on Vercel.
+
+
 ## User Guide
+
+### Landing Page
 
 The landing page allows the user to sign-in or create their account using their UH email as their username. It also displays and example of the other pages once the user signs in.
 
 <img src="images/i-Companion-Landing-Page.png" alt="landing page mockup" width="300">
 
+### Profile 
+
 Once signed in, the user can add or edit their profile details. These include their username, contact details such as discord or in-game usernames, and a short description of their interests / what they like to play.
 
 <img src="images/iCompanion-profile.png" alt="profile page mockup" width="300">
+
+### Connections
 
 Using their interests, the application can suggest new users to connect and interact with within iLabs.
 
 <img src="images/i-Companion-connections.png" alt="connections page mockup" width="300">
 
+### Calendar
+
 A calendar view can also be shown of all of the scheduled gaming sessions in iLabs that were made public by the organizer.
 
 <img src="images/i-Companion-calendar.png" alt="calendar page mockup" width="300">
+
+## Developer Guide
+
+<!-- text -->
+
+
+## Development History
+
+### Milestone 1 (M1)
+
+The main goal of M1 was to deploy the system to Vercel and start implementing code. This milestone was the beginning of the project, therefore this milestone was primarily for setting up the environment.
+
+[Link](https://github.com/orgs/i-companion/projects/1/views/1) to M1
+
+### Milestone 2 (M2)
+
+The main goal of M2 was to ...
+
+[Link](https://github.com/orgs/i-companion/projects/3/views/1) to M2.
+
+### Milestone 3 (M3)
+
+The main goal of M3 was to ...
+
+[Link](https://github.com/orgs/i-companion/projects/4) to M3.
+
 
 ## Team Contract
 
