@@ -131,7 +131,7 @@ Develop the functionality and layout of the web application with larger focus on
 Pages that are functional:
    <ul>
 <li>Landing page and its subsequent links</li>
-<li>Sign-in / Register pages
+<li>Sign-in / Register pages</li>
 <li>Create / Edit user profile page</li>
 <li>Dislpay calendar and events page</li>
    </ul>
