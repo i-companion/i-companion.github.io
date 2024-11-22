@@ -50,6 +50,7 @@ Idea:
 
 Progress:
 
+<img src="images/icompanion-profile.png" alt="profile page" width="800">
 
 ### Scheule
 
