@@ -167,6 +167,7 @@ Pages that are functional:
       </ul>
    </li>
 </ol>
+<p>In conjunction, the application home page will be continuially updated with the development progess</p>
 
 [Link](https://github.com/orgs/i-companion/projects/4) to M3.
 
