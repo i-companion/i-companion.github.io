@@ -199,6 +199,7 @@ Information and Computer Science student at UH Manoa
 
 ### Micah Tossey
 
+Junior computer science student at UH manoa looking for a career in game design.
 
 ### Phoebe Chang
 
