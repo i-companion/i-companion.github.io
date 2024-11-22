@@ -144,7 +144,29 @@ Pages that are functional:
 
 ### Milestone 3 (M3)
 
-The main goal of M3 was to ...
+<p>Milestone 3 will focus on refining the form and functionality of our web application while also populating our database with data that the application can retrieve and display. This includes:</p>
+<ol>
+   <li>
+      Improvements to the user interface with an appealing and intuitive layout
+      <ul>
+         <li>The order of linking to other pages should make intuitive sense</li>
+      </ul>
+   </li>
+   <li>
+      Enhanced functionality and features
+      <ul>
+         <li>Adding events to the calendar</li>
+      </ul>
+   </li>
+   <li>
+      Integrating interactions with the database to ensure a seamless user experience
+      <ul>
+         <li>Adding user profiles to populate the connections page</li>
+         <li>Adding events to the calender pagea</li>
+         <li>Displaying popular games based on user preferences</li>
+      </ul>
+   </li>
+</ol>
 
 [Link](https://github.com/orgs/i-companion/projects/4) to M3.
 
