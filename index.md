@@ -54,7 +54,7 @@ A calendar view can also be shown of all of the scheduled gaming sessions in iLa
 
 ## Developer Guide
 
-&nbsp;### Installation
+### Installation
 
 1. Go to the [iCompanion repo](https://github.com/i-companion/iCompanion).
 
@@ -76,8 +76,15 @@ $ npm run dev
 
 ### ESLint
 
+iCompanion includes a ESLint file to adhere to coding standards. This allows application's code to be more consistent and organized.
 
+ESLint can be invoked with the following command:
 
+```
+$ npm run lint
+```
+
+ESLint should run without generating any errors.
 
 
 ## Development History
@@ -121,7 +128,7 @@ The main goal of M3 was to ...
 Junior computer science student at UH manoa pursuing the Data Science track
 
 ### Abigail Lorber
-Junior at the UH Manoa, currently seeking a B.S. in Computer Science.
+Junior at UH Manoa, currently seeking a B.S. in Computer Science.
 
 ### Kai Sutton
 Information and Computer Science student at UH Manoa
