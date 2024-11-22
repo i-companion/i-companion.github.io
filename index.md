@@ -52,6 +52,20 @@ Progress:
 
 <img src="images/icompanion-profile.png" alt="profile page" width="800">
 
+### Scheule
+
+The schedule page will display a calendar showing all of the user's scheduled gaming sessions.
+
+Progress:
+
+<img src="images/icompanion-schedule.png" alt="schedule page" width="800">
+
+### Popular
+
+The popular page will display a ranked list of all the popular games at iLab.
+
+<img src="images/icompanion-popular.png" alt="profile page" width="800">
+
 
 ### Connections
 
@@ -76,7 +90,7 @@ Idea:
 
 Progress:
 
-<img src="images/icompanion-calendar.png" alt="calendar page" width="800">
+<img src="images/icompanion-schedule.png" alt="calendar page" width="800">
 
 
 ## Developer Guide
