@@ -38,7 +38,7 @@ Idea:
 
 Progress:
 
-<img src="images/icompanion-landing-page.png" alt="landing page progress" width="500">
+<img src="images/icompanion-landing-page.png" alt="landing page" width="500">
 
 ### Profile 
 
@@ -50,7 +50,7 @@ Idea:
 
 Progress:
 
-<img src="images/icompanion-profile.png" alt="landing page mockup" width="500">
+<img src="images/icompanion-profile.png" alt="profile page" width="500">
 
 
 ### Connections
@@ -63,7 +63,7 @@ Idea:
 
 Progress:
 
-<img src="images/icompanion-connections.png" alt="connections page mockup" width="500">
+<img src="images/icompanion-connections.png" alt="connections page" width="500">
 
 
 ### Calendar
@@ -76,7 +76,7 @@ Idea:
 
 Progress:
 
-<img src="images/icompanion-calendar.png" alt="connections page mockup" width="500">
+<img src="images/icompanion-calendar.png" alt="calendar page" width="500">
 
 
 ## Developer Guide
