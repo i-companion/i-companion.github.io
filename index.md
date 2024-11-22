@@ -32,25 +32,52 @@ The iCompanion web application sorts UH students using similar, interests, avail
 
 The landing page allows the user to sign-in or create their account using their UH email as their username. It also displays and example of the other pages once the user signs in.
 
+Idea:
+
 <img src="images/i-Companion-Landing-Page.png" alt="landing page mockup" width="300">
+
+Progress:
+
+<img src="images/icompanion-landing-page.png" alt="landing page progress" width="300">
 
 ### Profile 
 
 Once signed in, the user can add or edit their profile details. These include their username, contact details such as discord or in-game usernames, and a short description of their interests / what they like to play.
 
-<img src="images/iCompanion-profile.png" alt="profile page mockup" width="300">
+Idea:
+
+<img src="images/i-Companion-profile.png" alt="profile page mockup" width="300">
+
+Progress:
+
+<img src="images/icompanion-profile.png" alt="landing page mockup" width="300">
+
 
 ### Connections
 
 Using their interests, the application can suggest new users to connect and interact with within iLabs.
 
+Idea:
+
 <img src="images/i-Companion-connections.png" alt="connections page mockup" width="300">
+
+Progress:
+
+<img src="images/icompanion-connections.png" alt="connections page mockup" width="300">
+
 
 ### Calendar
 
 A calendar view can also be shown of all of the scheduled gaming sessions in iLabs that were made public by the organizer.
 
+Idea:
+
 <img src="images/i-Companion-calendar.png" alt="calendar page mockup" width="300">
+
+Progress:
+
+<img src="images/icompanion-calendar.png" alt="connections page mockup" width="300">
+
 
 ## Developer Guide
 
