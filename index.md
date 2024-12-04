@@ -54,6 +54,13 @@ Progress:
 <img src="images/icompanion-profile.png" alt="profile page" width="800">
 
 
+### Sign up Page
+
+The new signup page allows the user to enter information that will create their profile. This page interacts with the database by creating a user profile and adding the user's entered data to the database.
+
+<img src="images/sign-up.png" alt="signup page" width="800">
+
+
 ### Available Games
 
 This page displays all games that are available to play at iLab!
@@ -75,6 +82,9 @@ Progress:
 The popular page will display a ranked list of all the popular games at iLab.
 
 <img src="images/icompanion-popular.png" alt="profile page" width="800">
+
+Progress:
+
 
 
 ### Connections
@@ -150,8 +160,9 @@ The main goal of M1 was to deploy the system to Vercel and start implementing co
 
 Brief overview of the progress accomplished in Milestone 2:
 - Profile page was updated
+- Sign up page was updated (writes to the database)
 - Available games page was updated
-- Popular games page was updated
+- Popular games page was updated (reads from the database)
 - Schedule page was updated
 
 <ol>
