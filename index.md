@@ -100,7 +100,7 @@ Idea:
 
 Progress:
 
-<img src="images/icompanion-schedule.png" alt="calendar page" width="800">
+<img src="images/updated-schedule.png" alt="calendar page" width="800">
 
 
 ## Developer Guide
@@ -147,6 +147,13 @@ The main goal of M1 was to deploy the system to Vercel and start implementing co
 [Link](https://github.com/orgs/i-companion/projects/1/views/1) to M1
 
 ### Milestone 2 (M2)
+
+Brief overview of the progress accomplished in Milestone 2:
+- Profile page was updated
+- Available games page was updated
+- Popular games page was updated
+- Schedule page was updated
+
 <ol>
    <li>
 Develop the functionality and layout of the web application with larger focus on its function. This includes the navbar components and links, profile card components, and calendar components.
