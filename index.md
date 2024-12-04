@@ -41,6 +41,19 @@ Progress:
 <img src="images/icompanion-landing-page.png" alt="landing page" width="800">
 
 
+### Calendar
+
+A calendar view can also be shown of all of the scheduled gaming sessions in iLabs that were made public by the organizer.
+
+Idea:
+
+<img src="images/i-Companion-calendar.png" alt="calendar page mockup" width="300">
+
+Progress:
+
+<img src="images/updated-schedule.png" alt="calendar page" width="800">
+
+
 ### Profile 
 
 Once signed in, the user can add or edit their profile details. These include their username, contact details such as discord or in-game usernames, and a short description of their interests / what they like to play.
@@ -68,15 +81,6 @@ This page displays all games that are available to play at iLab!
 <img src="images/available-games.png" alt="available games page" width="800">
 
 
-### Schedule
-
-The schedule page displays a calendar showing all of the user's scheduled gaming sessions.
-
-Progress:
-
-<img src="images/icompanion-schedule.png" alt="schedule page" width="800">
-
-
 ### Popular
 
 The popular page will display a ranked list of all the popular games at iLab.
@@ -84,7 +88,6 @@ The popular page will display a ranked list of all the popular games at iLab.
 <img src="images/icompanion-popular.png" alt="profile page" width="800">
 
 Progress:
-
 
 
 ### Connections
@@ -98,19 +101,6 @@ Idea:
 Progress:
 
 <img src="images/icompanion-connections.png" alt="connections page" width="800">
-
-
-### Calendar
-
-A calendar view can also be shown of all of the scheduled gaming sessions in iLabs that were made public by the organizer.
-
-Idea:
-
-<img src="images/i-Companion-calendar.png" alt="calendar page mockup" width="300">
-
-Progress:
-
-<img src="images/updated-schedule.png" alt="calendar page" width="800">
 
 
 ## Developer Guide
