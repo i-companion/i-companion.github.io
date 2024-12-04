@@ -40,6 +40,7 @@ Progress:
 
 <img src="images/icompanion-landing-page.png" alt="landing page" width="800">
 
+
 ### Profile 
 
 Once signed in, the user can add or edit their profile details. These include their username, contact details such as discord or in-game usernames, and a short description of their interests / what they like to play.
@@ -52,13 +53,22 @@ Progress:
 
 <img src="images/icompanion-profile.png" alt="profile page" width="800">
 
-### Scheule
 
-The schedule page will display a calendar showing all of the user's scheduled gaming sessions.
+### Available Games
+
+This page displays all games that are available to play at iLab!
+
+<img src="images/available-games.png" alt="available games page" width="800">
+
+
+### Schedule
+
+The schedule page displays a calendar showing all of the user's scheduled gaming sessions.
 
 Progress:
 
 <img src="images/icompanion-schedule.png" alt="schedule page" width="800">
+
 
 ### Popular
 
