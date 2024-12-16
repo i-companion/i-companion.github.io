@@ -88,29 +88,12 @@ A calendar view can also be shown of all of the scheduled gaming sessions in iLa
 
 Once signed in, the user can add or edit their profile details. These include their username, contact details such as discord or in-game usernames, and a short description of their interests / what they like to play.
 
-Idea:
-
-<img src="images/i-Companion-profile.png" alt="profile page mockup" width="300">
-
-Progress:
-
 <img src="images/icompanion-profile.png" alt="profile page" width="800">
-
-
-
-
-
 
 
 ### Connections
 
 Using their interests, the application can suggest new users to connect and interact with within iLabs.
-
-Idea:
-
-<img src="images/i-Companion-connections.png" alt="connections page mockup" width="300">
-
-Progress:
 
 <img src="images/icompanion-connections.png" alt="connections page" width="800">
 
