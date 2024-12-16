@@ -28,30 +28,60 @@ The iCompanion web application sorts UH students using similar, interests, avail
 
 ## User Guide
 
+### Sign up Page
+
+The signup page allows the user to enter information that will create their profile. This page interacts with the database by creating a user profile and adding the user's entered data to the database.
+
+<img src="images/icompanion-signup.png" alt="signup page" width="800">
+
+
+### Sign in Page
+
+The signin page allows users that already have accounts to login.
+
+<img src="images/icompanion-signin.png" alt="signup page" width="800">
+
+
 ### Landing Page
 
 The landing page allows the user to sign-in or create their account using their UH email as their username. It also displays and example of the other pages once the user signs in.
 
-Idea:
-
-<img src="images/i-Companion-Landing-Page.png" alt="landing page mockup" width="300">
-
-Progress:
-
-<img src="images/icompanion-landing-page.png" alt="landing page" width="800">
+<img src="images/icompanion-landing.png" alt="landing page" width="800">
 
 
-### Calendar
+### Available Games
+
+This page displays all games that are available to play at iLab!
+
+<img src="images/icompanion-available.png" alt="available games page" width="800">
+
+
+### Popular Games
+
+The popular page displays a ranked list of all the popular games at iLab.
+
+<img src="images/icompanion-popular.png" alt="profile page" width="800">
+
+
+### Upcoming Events
+
+The upcoming events page displays all upcoming events at the iLab.
+
+<img src="images/icompanion-events.png" alt="profile page" width="800">
+
+
+### About iLab
+
+The about iLab page provides helpful information about iLab. This page shows users where iLab is located and the hours of operation.
+
+<img src="images/icompanion-about.png" alt="profile page" width="800">
+
+
+### Schedule
 
 A calendar view can also be shown of all of the scheduled gaming sessions in iLabs that were made public by the organizer.
 
-Idea:
-
-<img src="images/i-Companion-calendar.png" alt="calendar page mockup" width="300">
-
-Progress:
-
-<img src="images/updated-schedule.png" alt="calendar page" width="800">
+<img src="images/icompanion-schedule.png" alt="calendar page" width="800">
 
 
 ### Profile 
@@ -67,27 +97,9 @@ Progress:
 <img src="images/icompanion-profile.png" alt="profile page" width="800">
 
 
-### Sign up Page
-
-The new signup page allows the user to enter information that will create their profile. This page interacts with the database by creating a user profile and adding the user's entered data to the database.
-
-<img src="images/sign-up.png" alt="signup page" width="800">
 
 
-### Available Games
 
-This page displays all games that are available to play at iLab!
-
-<img src="images/available-games.png" alt="available games page" width="800">
-
-
-### Popular
-
-The popular page will display a ranked list of all the popular games at iLab.
-
-<img src="images/icompanion-popular.png" alt="profile page" width="800">
-
-Progress:
 
 
 ### Connections
