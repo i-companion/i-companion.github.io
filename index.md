@@ -60,6 +60,7 @@ This page displays all games that are available to play at iLab!
 
 The popular page displays a ranked list of all the popular games at iLab.
 
+
 <img src="images/icompanion-popular.png" alt="profile page" width="800">
 
 
@@ -94,6 +95,7 @@ Once signed in, the user can add or edit their profile details. These include th
 ### Connections
 
 Using their interests, the application can suggest new users to connect and interact with within iLabs.
+
 
 <img src="images/icompanion-connections.png" alt="connections page" width="800">
 
